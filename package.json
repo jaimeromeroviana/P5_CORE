@@ -1,7 +1,7 @@
 {
-  "name": "quiz",
+  "name": "CORE19-05_quiz_socket",
   "version": "1.0.0",
-  "description": "Practica Quiz",
+  "description": "CORE19-05_quiz_socket",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
